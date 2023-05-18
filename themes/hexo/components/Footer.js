@@ -28,7 +28,7 @@ const Footer = ({ title }) => {
         <i className='fas fa-users'/> <span className='px-1 busuanzi_value_site_uv'> </span> </span>
         <br/>
         <h1>{title}</h1>
-        <span className='text-xs '>ChatGPT：<a href='https://www.aiwen.asia/' className='underline dark:text-gray-300'>NotionNext {BLOG.VERSION}</a>.</span></span><br/>
+        <span className='text-xs '>友情链接：<a href='https://www.aiwen.asia/' className='underline dark:text-gray-300'> ChatGPT</a>.</span></span><br/>
     </footer>
   )
 }
